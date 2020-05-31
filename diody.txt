@@ -1,0 +1,4 @@
+Czerwone diody: 220R
+¯ó³te diody: 1K
+
+Potencjometr patrz¹c na to œmieszne pokrete³ko hehe to po œrodku jest Analog, a po prawej 5V.
